@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1451465043 source:/home/xinyuan/Desktop/student/Student/main.cpp
+	<iostream>
+
+1451476369 source:/home/xinyuan/Desktop/student/Student/service.cpp
+	"student.h"
+	"service.h"
+
+1451467743 /home/xinyuan/Desktop/student/Student/student.h
+	"structure.h"
+
+1451467722 /home/xinyuan/Desktop/student/Student/structure.h
+
+1451476363 /home/xinyuan/Desktop/student/Student/service.h
+	"structure.h"
+
+1451472153 source:/home/xinyuan/Desktop/student/Student/storage.cpp
+	<stdio.h>
+	"storage.h"
+	"structure.h"
+	"student.h"
+
+1451468793 /home/xinyuan/Desktop/student/Student/storage.h
+	"structure.h"
+
+1451468735 source:/home/xinyuan/Desktop/student/Student/student.cpp
+	"student.h"
+	"structure.h"
+	<malloc.h>
+	<stdio.h>
+	<string.h>
+
+1451476538 source:/home/xinyuan/Desktop/student/Student/system.cpp
+	"structure.h"
+	"system.h"
+	<string.h>
+
+1451469099 /home/xinyuan/Desktop/student/Student/system.h
+	"service.h"
+	"structure.h"
+
